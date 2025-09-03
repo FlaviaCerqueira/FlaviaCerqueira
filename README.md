@@ -1,5 +1,5 @@
 
-<h2>Olá, sou a Flávia 👩‍💻</h2> 
+<h2>Olá, me chamo Flávia 👩‍💻</h2> 
 
 <h4>Sobre mim</h4><hr>
 
