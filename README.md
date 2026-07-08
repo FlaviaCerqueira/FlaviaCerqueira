@@ -23,8 +23,8 @@ Vindo de uma sólida bagagem analítica na área de auditoria em saúde e contas
 ### 🤝 Vamos conectar!
 Sinta-se à vontade para explorar meus repositórios aqui no GitHub e entrar em contato caso tenha alguma sugestão, dúvida ou queira conversar sobre oportunidades e parcerias em tecnologia!
 
-*📬 **Contato:** flaviacerqueiraa1@gmail.com
-* [🔗 **LinkedIn:** [linkedin.com/in/fláviascerqueira](https://www.linkedin.com/in/fl%C3%A1viascerqueira) 
+* 📬 **Contato:** flaviacerqueiraa1@gmail.com
+* 🔗 **LinkedIn:** [linkedin.com/in/fláviascerqueira](https://www.linkedin.com/in/fl%C3%A1viascerqueira) 
 
 ---
 
