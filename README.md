@@ -1,32 +1,31 @@
-<h2>Olá, me chamo Flávia Cerqueira 👩‍💻</h2> 
+# Olá, me chamo Flávia Cerqueira 👩‍💻
 
-<h4>Sobre mim</h4><hr>
+### 👩‍💻 Sobre mim
+[cite_start]Sou Desenvolvedora Full Stack em formação [cite: 13, 16]. [cite_start]Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFavip Wyden e possuo experiência prática no desenvolvimento, manutenção e testes de aplicações web[cite: 21, 22, 26, 49]. 
 
-Sou uma Desenvolvedora Full Stack em desenvolvimento[cite: 13, 16]. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFavip Wyden [cite: 49] e possuo experiência prática no desenvolvimento, manutenção e testes de aplicações web[cite: 22, 26]. 
+[cite_start]Vindo de uma sólida bagagem analítica na área de auditoria em saúde e contas médicas, realizei a transição para a tecnologia trazendo forte atenção aos detalhes, resolução de problemas em equipe e foco em melhoria contínua de sistemas[cite: 15, 30, 33, 35].
 
-Vindo de uma sólida bagagem analítica na área de auditoria em saúde e contas médicas [cite: 30, 35], realizei a transição para a tecnologia trazendo forte atenção aos detalhes, resolução de problemas em equipe e foco em melhoria contínua de sistemas[cite: 16, 27, 28].
+---
 
-<h4>Formação</h4><hr>
+### 🎓 Formação
+* [cite_start]**Graduação em Análise e Desenvolvimento de Sistemas** 📍 UniFavip Wyden *(Conclusão prevista: 2028)* [cite: 48, 49]
+* [cite_start]**Técnico em Administração** 📍 CPET - Centro de Profissionalização e Educação Técnica [cite: 50, 51]
 
-🎓 **Graduação em Análise e Desenvolvimento de Sistemas**
-📍 UniFavip Wyden *(Conclusão prevista: 2027)* [cite: 49]
+---
 
-📜 **Técnico em Administração**
-📍 CPET - Centro de Profissionalização e Educação Técnica [cite: 50, 51]
+### 🛠️ Habilidades e Conhecimentos Técnicos
+* [cite_start]**Linguagens e Frameworks:** JavaScript, TypeScript, React e Node.js[cite: 6, 13].
+* [cite_start]**Versionamento e Ferramentas:** Git e GitHub para controle de versão e trabalho colaborativo[cite: 16, 18].
+* [cite_start]**Quality Assurance (QA):** Planejamento e execução de testes funcionais, identificação de falhas e automação de testes[cite: 7, 16, 26].
+* [cite_start]**Soft Skills e Diferenciais:** Forte capacidade analítica moldada por anos de experiência em gestão de processos regulados (regras ANS/TUSS) [cite: 34, 37][cite_start], comunicação fluida em equipe [cite: 16, 28] [cite_start]e **Inglês Profissional** para leitura e escrita de código[cite: 9].
 
-<h4>Habilidades e Conhecimentos Técnicos</h4><hr>
+---
 
-* **Linguagens e Frameworks:** JavaScript, TypeScript, React e Node.js[cite: 13].
-* **Versionamento e Ferramentas:** Git e GitHub para controle de versão e trabalho colaborativo[cite: 16, 25].
-* **Quality Assurance (QA):** Planejamento e execução de testes funcionais, identificação de falhas e automação de testes[cite: 7, 26].
-* **Soft Skills e Diferenciais:** Forte capacidade analítica moldada por anos de experiência em gestão de processos regulados (regras ANS/TUSS) , comunicação fluida em equipe [cite: 16, 28] e **Inglês Profissional** para leitura e escrita de código[cite: 9].
-
-<h4>Vamos conectar!</h4><hr>
-
+### 🤝 Vamos conectar!
 Sinta-se à vontade para explorar meus repositórios aqui no GitHub e entrar em contato caso tenha alguma sugestão, dúvida ou queira conversar sobre oportunidades e parcerias em tecnologia!
 
-📫 **Contato:** flaviacerqueiraa1@gmail.com [cite: 2]
-🔗 **LinkedIn:** [linkedin.com/in/fláviascerqueira](https://www.linkedin.com/in/fl%C3%A1viascerqueira) [cite: 3, 4]
+* [cite_start]📬 **Contato:** flaviacerqueiraa1@gmail.com [cite: 2]
+* [cite_start]🔗 **LinkedIn:** [linkedin.com/in/fláviascerqueira](https://www.linkedin.com/in/fl%C3%A1viascerqueira) [cite: 3, 4]
 
 ---
 
